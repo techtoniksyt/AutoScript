@@ -43,8 +43,10 @@ sleep 1
 apt install toilet
 echo "finished"
 sleep 1
-toilet -f mono12 -F gay "SUBSCRIBE"
-toilet -f mono12 -F gay "TO"
-toilet -f mono12 -F gay "TECHTONIKS"
+echo "====================="
+echo "THANKS FOR UR SUPPORT"
+echo "SUBSCRIBE  MY YOUTUBE"
+echo "    TECHTONIKS   "
+echo "====================="
 sleep 5
 clear
