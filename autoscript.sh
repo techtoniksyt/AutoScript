@@ -6,6 +6,12 @@ sleep 2
 apt update && apt upgrade
 echo "update finished"
 sleep 2
+
+echo "==============================="
+read -p "Enter Your Name :" username
+echo "Hello $username"
+echo "==============================="
+sleep 1
 echo "Initiatizing...."
 sleep 1
 echo "installing GIT"
