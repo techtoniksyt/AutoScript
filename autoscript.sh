@@ -1,10 +1,10 @@
  #!/data/data/com.termux/files/usr/bin/bash
 
 clear
-echo "update in progress"
+echo "UPDATE IN PROGRESS PLEASE WAIT"
 sleep 2
 apt update && apt upgrade
-echo "update finished"
+echo "UPDATE FINISHED"
 sleep 2
 
 echo "==============================="
@@ -49,10 +49,11 @@ sleep 1
 apt install toilet
 echo "finished"
 sleep 1
+clear
 echo "====================="
 echo "THANKS FOR UR SUPPORT"
 echo "SUBSCRIBE  MY YOUTUBE"
 echo "    TECHTONIKS   "
 echo "====================="
-sleep 5
+sleep 8
 clear
